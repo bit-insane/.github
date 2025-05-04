@@ -1,5 +1,3 @@
-
-
 # Harvest Sense
 
 ## Project Overview
@@ -45,3 +43,5 @@
 - We used the **Banana Ripeness dataset** from Roboflow for this concept.
 - With proper datasets, the system can be extended to any crop type.
 
+## Documentation 
+[REVOLUTIONIZING FIELDS, ONE BIT AT A TIME](https://drive.google.com/file/d/1UpJ6_4OXPiAYcJ_YhW5LAUJ6GtCWn4Bw/view?usp=drivesdk)
